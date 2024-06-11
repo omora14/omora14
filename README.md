@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p>Welcome to my GitHub profile! Here you'll find an overview of the projects I've been working on. Feel free to reach out if you have any questions or want to collaborate on exciting projects.
+<p>Welcome to my GitHub profile! Here you'll find an overview of some projects I've been working on. Feel free to reach out if you have any questions or want to collaborate on exciting projects.
 
 I'm a passionate and motivated Software Engineer. I thrive on solving complex problems and enjoy turning ideas into working software solutions.
 
