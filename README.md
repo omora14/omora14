@@ -9,13 +9,5 @@
 </p>
 
 <p align="center">
-  Passionate about automation, iPaaS & SaaS, and solving real-world problems through code.
-</p>
-
-<p align="center">
-  Languages & Tools: Java, JavaScript, C/C#/C++, R, Python.
-</p>
-
-<p align="center">
   Check out my <a href="https://omora14.github.io/owendevhub/portfolio/">Portfolio</a>
 </p>
