@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  Check out my <a href="https://omora14.github.io/owendevhub/portfolio/">Portfolio</a>
+  Check out my <a href="https://omora14.github.io/owendevhub/portfolio/">portfolio</a>
 </p>
